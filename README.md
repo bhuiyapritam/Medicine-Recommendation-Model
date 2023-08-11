@@ -1,5 +1,6 @@
 # Medicine-Recommendation-Model
-Personalised Medicine Recommendation and Disease Flagging Model Based on User's Previous Orders
+Personalised Medicine Recommendation and Disease Flagging Model Based on User's Previous Orders.
+
 Description:-
 Machine learning model flags the users with the diseases that they may have based on
 analyzing their historical medicine order and recommend alternate related medicines and products. The model uses
